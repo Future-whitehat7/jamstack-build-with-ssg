@@ -4,7 +4,7 @@ const vibes = [
     " .... have a blessed day",
     " .... and you have a great day",
     " .... and this is so cookie 🍪",
-    " .... and this is so AWESOOOOME 🍪",
+    " .... and this is so AWESOOOOME 🍪"
 
 ];
 
