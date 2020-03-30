@@ -8,4 +8,4 @@ config.addPassthroughCopy("src/js");
             output: "dist"
         }
     };
-};
+}; 

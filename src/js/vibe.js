@@ -4,6 +4,8 @@ const vibes = [
     " .... have a blessed day",
     " .... and you have a great day",
     " .... and this is so cookie 🍪",
+    " .... and this is so AWESOOOOME 🍪",
+
 ];
 
 // choose a random vibe. new function vibe, using math.floor and random to pull from 
